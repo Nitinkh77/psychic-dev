@@ -1,0 +1,3 @@
+{"name":"spiritual-site","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start"},
+"dependencies":{"next":"latest","react":"latest","react-dom":"latest","framer-motion":"latest","lenis":"latest","lucide-react":"latest"},
+"devDependencies":{"typescript":"latest","@types/react":"latest","@types/node":"latest","tailwindcss":"^3.4.0","postcss":"latest","autoprefixer":"latest"}}

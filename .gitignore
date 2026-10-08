@@ -1,0 +1,23 @@
+﻿# dependencies
+/node_modules
+
+# next.js build output
+/.next/
+/out/
+
+# env files (never commit keys)
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# logs
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
